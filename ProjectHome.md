@@ -1,0 +1,1 @@
+Anagramwa finds all anagrams of a jumbled letter sequence from a dictionary.
